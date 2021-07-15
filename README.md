@@ -2,5 +2,4 @@
 
 ##### influenza_code.do : includes statistical analysis code in STATA
 
-* hoja 1
 
